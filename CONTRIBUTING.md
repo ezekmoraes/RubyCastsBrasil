@@ -16,6 +16,6 @@ Novos contribuintes são sempre bem vindos. Existem duas formas de contribuir co
 
 ## Conteúdo
 * Escreva Artigos.
-* Melhore o [wiki](https://github.com/RubyCastsBrasil/RubyCastsBrasil/issues)
+* Melhore o [wiki](https://github.com/RubyCastsBrasil/RubyCastsBrasil/issues).
 * Grave Screencasts.
 * Ofereça feedback em [issues](https://github.com/RubyCastsBrasil/RubyCastsBrasil/issues) abertas.
